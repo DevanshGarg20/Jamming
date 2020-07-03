@@ -1,3 +1,11 @@
+Here’s a quick overview of how Jamming functions:
+
+    Allows users to search the Spotify library.
+    
+    Create a custom playlist.
+    
+    Then save it to their Spotify account.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
